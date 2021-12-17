@@ -1,2 +1,4 @@
-const AllQuote = () => {};
+const AllQuote = () => {
+  return <h1>All Quote</h1>;
+};
 export default AllQuote;
